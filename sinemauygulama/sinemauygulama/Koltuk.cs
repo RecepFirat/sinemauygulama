@@ -9,7 +9,7 @@ namespace sinemauygulama
     class Koltuk:Button//sen bi buttonsun dıyorum senın ıcıne buttonlar olucak
     {
 
-
+        
         public int Numara { get; set; }
         public string Sıra { get; set; }
 
