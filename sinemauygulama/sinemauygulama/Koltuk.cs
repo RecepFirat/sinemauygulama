@@ -7,9 +7,10 @@ using System.Windows.Forms;
 namespace sinemauygulama
 {//35.dakıkadayım
     class Koltuk:Button//sen bi buttonsun dıyorum senın ıcıne buttonlar olucak
-    {sad
+    {
+        public int MyProperty { get; set; }
 
-        
+
         public int Numara { get; set; }
         public string Sıra { get; set; }
 
