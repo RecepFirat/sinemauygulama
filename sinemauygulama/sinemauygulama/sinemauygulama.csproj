@@ -72,6 +72,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">
@@ -89,6 +90,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resim\Koltuk.png" />
+    <None Include="Resources\Koltuk2.jpg" />
+    <None Include="Resources\koltuk1.png" />
+    <None Include="Resources\Koltuk.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
