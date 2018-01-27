@@ -8,8 +8,11 @@ namespace sinemauygulama
 {//35.dakıkadayım
     class Koltuk:Button//sen bi buttonsun dıyorum senın ıcıne buttonlar olucak
     {
-        public int MyProperty { get; set; }
-
+        public Koltuk()
+        {
+            Width = 50;
+            Height = 50;
+        }
 
         public int Numara { get; set; }
         public string Sıra { get; set; }
