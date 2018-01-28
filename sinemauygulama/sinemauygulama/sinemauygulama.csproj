@@ -89,7 +89,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resim\Koltuk.png" />
     <None Include="Resources\Koltuk2.jpg" />
     <None Include="Resources\koltuk1.png" />
     <None Include="Resources\Koltuk.png" />
