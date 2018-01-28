@@ -117,17 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="koltuk1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFeSURBVGhD7ZaxSgNREEUX9Bf0A2ys7AQLC+38Bf8grVZ2
-        gn8gaKu9tWBlJxYWqfQHhFQpLG31juyDZbgJJDv3LSZz4MBmirnv8siyTZIkyVrwDH9EjmEVWLhCKU+Q
-        hSqcQhksUKkMFqZUBgtTKoOFKZXBwpTKYGFKZbAwpTJYmFIZLEypDBamVMZL6zdkwdFWYQJZeIQSXqEP
-        2oUjN4vyEJ66mXkJe+EXmsdQVWQbnrlZcWneIFs4VJEruBRsmTlUEXNh7H/AFplH8N8UuYZskVnjRmZh
-        2QsxdJED+Anv4W37fA7DiyixIvYa/oKP8KF9voChRbbgrDdaX+3LYd/NuoYV2YHzSka4B0/crBhSxK54
-        w81UGh/Qz0OKGOrbKBqb0M/DitxBP1dY8PMs0tVYmSLzPh8iLfh5WJHa+DNkka5D4M+wvkUKZcHN36/6
-        vMNyhl5kkSCySJIkK0fT/AL729FL3BGdiQAAAABJRU5ErkJggg==
-</value>
-  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>12, 26</value>
+  </metadata>
 </root>
